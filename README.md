@@ -74,3 +74,4 @@ The dashboard helps management quickly identify high-performing products, high-r
 
 ###6. Dashboard Screenshot / Preview
 Example:
+https://github.com/sayali06-pixel/Retail-Store-Analysis-Dashboard-Using-Power-BI/blob/main/dashboard%20photo.png
